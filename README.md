@@ -1,6 +1,8 @@
 # Resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
+# Módulo 1: Introdução a nuvem:
+
 Durante o módulo do curso, aprendi sobre as diferenças entre nuvens, como:
 
 Nuvem Pública: Nuvem pública são nuvens de serviços remotos disponibilizados por provedores terceirizados (como AWS, Azure, GCP) através da internet. Os recursos (servidores, armazenamento, aplicativos) são compartilhados entre múltiplos clientes, e geralmente o modelo de cobrança é "pague pelo que usar".
@@ -22,6 +24,19 @@ alguns exemplos: Salários e encargos dos funcionários, Contas de serviços pú
 Os gastos de OpEx são reconhecidos como despesas no período em que ocorrem, sendo diretamente lançados na demonstração do resultado do exercício (DRE), reduzindo o lucro da empresa naquele período.
 
 O OpEx é essencial para o funcionamento contínuo do negócio.
+
+# Módulo 2: Beneficios da Nuvem:
+
+## Benefícios da Nuvem
+
+* Alta disponibilidade
+* Escalabilidade
+* Elasticidade
+* Confiabilidade
+* Previsibilidade
+* Segurança
+* Governança
+* Gerenciabilidade
 
 
 
