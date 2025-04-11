@@ -56,4 +56,15 @@ O OpEx é essencial para o funcionamento contínuo do negócio.
 
 Tudo em nuvem de ser organizado, é importante otimizar os investimentos e evitar gastos desnecessários, a migração e a operação de recursos na nuvem exigem análises claras, organização estruturada e a definição clara de objetivos estratégicos.
 
-# Módulo 3:
+# Módulo 3: Tipos de Serviços na nuvem:
+
+- IaaS (Infraestrutura como serviço)
+- PaaS (Plataforma como serviço)
+- SaaS (Software como serviço)
+
+  - IaaS: Na Infraestrutura como serviço o cliente tem como responsabilidade quase toda infraestrutura do Servidor/Sistema, a nuvem apenas detem a parte fisica de Host, Datacenter e Rede.
+  - PaaS: Plataforma como serviço a nuvem define o sistema operacional e divide com o cliente a responsabilidade com a implementação de aplicativos e controles de rede, por exemplo.
+  - SaaS: Com Software como serviço o cliente praticamente toma conta apenas das informações e dados do Servidor/Sistema, Compartilha a infraestrutura de identidade com a nuvem, e a nuvem toma conta das outras responsabilidades(SaaS podem ser serviços prontos de Assinatura)
+
+
+![image](https://github.com/user-attachments/assets/eb46a338-bde1-4118-b600-dfcca3dedc2e)
