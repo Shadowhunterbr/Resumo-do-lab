@@ -62,9 +62,36 @@ Tudo em nuvem de ser organizado, é importante otimizar os investimentos e evita
 - PaaS (Plataforma como serviço)
 - SaaS (Software como serviço)
 
-  - IaaS: Na Infraestrutura como serviço o cliente tem como responsabilidade quase toda infraestrutura do Servidor/Sistema, a nuvem apenas detem a parte fisica de Host, Datacenter e Rede.
-  - PaaS: Plataforma como serviço a nuvem define o sistema operacional e divide com o cliente a responsabilidade com a implementação de aplicativos e controles de rede, por exemplo.
-  - SaaS: Com Software como serviço o cliente praticamente toma conta apenas das informações e dados do Servidor/Sistema, Compartilha a infraestrutura de identidade com a nuvem, e a nuvem toma conta das outras responsabilidades(SaaS podem ser serviços prontos de Assinatura)
+  - IaaS:
+    Na Infraestrutura como serviço o cliente tem como responsabilidade quase toda infraestrutura do Servidor/Sistema, a nuvem apenas detem a parte fisica de Host, Datacenter e Rede.
+  - PaaS:
+    Plataforma como serviço a nuvem define o sistema operacional e divide com o cliente a responsabilidade com a implementação de aplicativos e controles de rede, por exemplo.
+  - SaaS:
+    Com Software como serviço o cliente praticamente toma conta apenas das informações e dados do Servidor/Sistema, Compartilha a infraestrutura de identidade com a nuvem, e a nuvem toma conta das outras responsabilidades(SaaS podem ser serviços prontos de Assinatura)
 
 
 ![image](https://github.com/user-attachments/assets/eb46a338-bde1-4118-b600-dfcca3dedc2e)
+
+# Módulo 4: Componentes de arquitetura Azure:
+
+- Pares de Regiões em Nuvem:
+Pares de regiões em nuvem são uma arquitetura projetada para fornecer alta disponibilidade dentro de uma determinada região. Trata-se de datacenters interligados localizados em regiões próximas, com o objetivo de reduzir os riscos de indisponibilidade de sistemas na nuvem devido a falhas de rede ou infraestrutura. Por exemplo, em um estado do Brasil pode haver três datacenters interconectados. Caso um deles fique inoperante, os outros dois continuam mantendo a operação, embora isso possa resultar em um aumento na latência.
+
+- Regiões soberanas do Azure:
+  As Regiões Soberanas do Azure são regiões específicas da infraestrutura de nuvem da Microsoft projetadas para atender a requisitos rigorosos de segurança, conformidade e soberania de dados. Essas regiões são isoladas das regiões comerciais padrão e destinam-se a organizações governamentais ou instituições altamente reguladas, como as dos Estados Unidos e China. Acesso restrito e controle sobre os dados armazenados, com foco na soberania e privacidade de dados.
+
+- Assinaturas do Azure:
+  Uma assinatura no Azure é uma unidade lógica de serviços e recursos em nuvem, associada a uma conta do Azure. Ela serve para organizar recursos, controlar acesso e gerenciar cobrança.
+  -Isolamento de ambientes: separa desenvolvimento, teste e produção.
+  
+  -Gerenciamento de recursos: facilita o controle e a governança.
+
+  -Limites e cotas: cada assinatura tem seus próprios limites de uso.
+
+  -Cobrança separada: útil para distribuir custos por projeto, cliente ou setor.
+  
+  (uma conta pode haver varias assinaturas, uma assinatura deve responder para apenas uma conta).
+
+
+
+
