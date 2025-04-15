@@ -93,5 +93,52 @@ Pares de regiões em nuvem são uma arquitetura projetada para fornecer alta dis
   (uma conta pode haver varias assinaturas, uma assinatura deve responder para apenas uma conta).
 
 
+# Módulo 5: Computação e rede Azure:
+- A computação do Azure é um serviço sob demanda que fornece recursos de computação como discos, processadores, memória, rede e sistemas operacionais.
+- A azure tem conjuntos de disponibilidades de VM, ou seja:
+   ![image](https://github.com/user-attachments/assets/d5002c93-4130-4e82-aa9e-a2e7fece70e1)
 
+  Resumidamente você pode configurar suas maquinas virtuais de forma "duplicada" em varios Rack's dentro de dominios de falhas, quando um dominio para de funcionar outro vai suportar o funcionamento das VMS em ordem horizontal.
+
+Área de trabalho virtual do Azure é um virtualização de área de trabalho e aplicativo executada na nuvem.
+- Beneficios:
+  - Reduz o risco de que o recurso seja deixado para trás.
+  - implantação reais de várias sessões.
+  - Cria um ambiente de virtualização da área de trabalho sem precisar executar outros servidores de gateway.
+
+Serviços de contêineres do Azure fornece um ambiente leve e virtualizado que não exige o gereciamento do sistema operacional e pode responder a alterações sob demanda.
+  - Instâncias de Contêiner do Azure: uma oferta de PaaS que executa um contêiner ou pod de contêineres no Azure.
+  - Aplicativos de Contêiner do Azure: uma oferta de PaaS, como instâncias de contêineres, que pode balancear a carga e escalar.
+  - Serviço de Kubernetes do Azure: um serviço de orquestração para contêineres com arquiteturas distribuídas e grandes volumes de contêineres.
+ 
+- Azure functions: Uma oferta de PaaS que dá suporte a operações de computação sem servidor.
+"como se fosse low code"
+
+"lift-and-shift"
+
+
+
+
+Contêineres:
+
+- Os aplicativos e serviços são empacotados em um contêiner que fica na parte superior do sistema operacional do host. Vários contêineres podem ficar em um sistema operacional do host.
+
+Serviços de Aplicativo do Azure:
+  -Trabalha com .NET, .NET Core, Node.js, Java, Python ou PHP.
+  -Oferta de PaaS com requisitos de nível corporativo de desempenho, segurança e conformidade.
+
+Serviços de rede do Azure:
+
+- A Rede Virtual do Azure (VNet) permite que os recursos do Azure se comuniquem uns com os outros, com a Internet e com as redes locais.
+- Pontos de extremidade públicos, acessíveis de qualquer lugar com acesso à Internet.
+- Pontos de extremidade privados, acessíveis somente de dentro da sua rede.
+- O ExpressRoute estende as redes locais para o Azure por meio de uma conexão privada facilitada por um provedor de conectividade.
+
+![image](https://github.com/user-attachments/assets/943581c6-b750-481d-8b20-d549d7f6e058)
+
+
+DNS do Azure
+
+- Facilidade de uso para gerenciar seus recursos externos e do Azure com um único serviço DNS.
+- As redes virtuais personalizáveis permitem que você use nomes de domínio privados e totalmente personalizados em suas redes virtuais privadas.
 
