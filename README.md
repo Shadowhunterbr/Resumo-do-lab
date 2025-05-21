@@ -174,3 +174,26 @@ Principais características:
 - Escalabilidade e gerenciamento simplificado: integração nativa com recursos de escalonamento, autenticação e monitoramento do Azure.
 
 Com o Bot Service, é possível desenvolver soluções como assistentes virtuais, chatbots de atendimento ao cliente, automações de FAQ e integração com sistemas corporativos para obter informações automatizadas.
+
+# Módulo 8: Mineração de Conhecimento, Pesquisa Cognitiva, Enriquecimento de IA e Buscas Cognitivas
+
+- A mineração de conhecimento é o processo de extração de informações úteis e padrões ocultos a partir de grandes volumes de dados. Utilizando técnicas de inteligência artificial (IA), aprendizado de máquina e estatística, esse processo transforma dados brutos em conhecimento acionável, essencial para a tomada de decisões estratégicas em diferentes áreas como saúde, finanças, comércio e segurança.
+
+- A pesquisa cognitiva vai além das buscas tradicionais, pois tenta entender a intenção do usuário, o contexto da consulta e o significado dos dados. Inspirada na forma como o cérebro humano busca e associa informações, ela utiliza técnicas como Processamento de Linguagem Natural (PLN), reconhecimento de padrões e inferência semântica.
+
+- O enriquecimento de IA consiste na incorporação de fontes de conhecimento externas, dados semânticos, contextuais ou históricos a um sistema de IA, com o objetivo de aumentar sua capacidade de raciocínio, interpretação e tomada de decisão. Com isso, os modelos tornam-se mais precisos, personalizados e eficazes.
+
+= Já as buscas cognitivas são sistemas avançados de recuperação de informação que combinam técnicas de IA com indexação semântica, ontologias e aprendizado contínuo. Elas são capazes de compreender a linguagem natural, oferecer respostas relevantes e aprender com interações anteriores. Diferente de uma simples busca por palavras-chave, a busca cognitiva visa entregar conhecimento, não apenas dados.
+
+- A integração dessas quatro áreas representa um avanço significativo no desenvolvimento de sistemas inteligentes, capazes de aprender, adaptar-se e oferecer soluções mais eficazes, contextualizadas e humanas.
+
+# Módulo 9: Copilot
+
+O Copilot é uma ferramenta de inteligência artificial desenvolvida inicialmente pela GitHub em parceria com a OpenAI, voltada para auxiliar desenvolvedores na escrita de código. Ele atua como um "copiloto" durante a programação, sugerindo trechos de código, completando funções automaticamente, gerando documentação e até mesmo explicando blocos de código complexos.
+
+Baseado em modelos de linguagem avançados como o GPT (Generative Pre-trained Transformer), o Copilot foi treinado com bilhões de linhas de código público disponível na internet. Isso permite que ele reconheça padrões e recomende soluções em diversas linguagens de programação como Python, JavaScript, Java, C#, entre outras.
+
+Além do GitHub Copilot para desenvolvimento de software, outras empresas como Microsoft também têm investido na ideia de copilotos em diferentes áreas. Um exemplo é o Microsoft 365 Copilot, que integra IA a ferramentas como Word, Excel e PowerPoint, oferecendo sugestões de texto, criação de planilhas automáticas, resumos de documentos e muito mais, agilizando o trabalho e aumentando a produtividade.
+
+O grande diferencial do Copilot é sua capacidade de entender o contexto do que está sendo feito e oferecer sugestões inteligentes, tornando-se um verdadeiro assistente digital, tanto para programadores quanto para profissionais de outras áreas.
+
