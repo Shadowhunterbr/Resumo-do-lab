@@ -142,3 +142,35 @@ DNS do Azure
 - Facilidade de uso para gerenciar seus recursos externos e do Azure com um único serviço DNS.
 - As redes virtuais personalizáveis permitem que você use nomes de domínio privados e totalmente personalizados em suas redes virtuais privadas.
 
+# Módulo 7: Language Studio e Serviço de Bot do Azure:
+Durante este módulo, aprendi sobre os recursos de inteligência artificial voltados para linguagem natural e automação de conversas que o Azure oferece, como o Azure Language Studio e o Azure Bot Service.
+
+Azure Language Studio
+O Language Studio é uma plataforma baseada na nuvem que permite experimentar, treinar e implementar modelos de linguagem natural com facilidade. Ele faz parte do Azure AI Language, que oferece vários recursos de processamento de linguagem natural (NLP), como:
+
+- Análise de sentimentos: detecta o tom emocional de um texto (positivo, neutro ou negativo).
+
+- Extração de entidades: identifica informações relevantes em um texto, como nomes, datas, localizações, etc.
+
+- Reconhecimento de linguagem: identifica automaticamente o idioma do conteúdo textual.
+
+- Classificação personalizada de texto: permite treinar modelos para classificar texto de acordo com categorias definidas.
+
+- Extração de frases-chave: identifica os principais tópicos de um texto.
+
+Essas funcionalidades permitem automatizar processos, extrair valor de grandes volumes de texto e melhorar a interação homem-máquina. O uso do Language Studio é facilitado por uma interface gráfica no portal do Azure, sem necessidade de escrever código inicialmente, o que agiliza a prototipação de soluções de IA.
+
+Azure Bot Service
+O Azure Bot Service é uma plataforma que permite criar, hospedar, gerenciar e integrar bots inteligentes com outros serviços do Azure e canais de comunicação, como Microsoft Teams, Facebook Messenger, Telegram e páginas web.
+
+Principais características:
+
+- Criação rápida de bots com templates: permite iniciar bots básicos com fluxos predefinidos.
+
+- Suporte a linguagem natural via LUIS ou Azure Language Studio: os bots podem entender intenções e extrair informações contextuais dos usuários.
+
+- Compatibilidade com o Bot Framework: framework da Microsoft que oferece bibliotecas e SDKs para desenvolver bots personalizados em linguagens como C# e Node.js.
+
+- Escalabilidade e gerenciamento simplificado: integração nativa com recursos de escalonamento, autenticação e monitoramento do Azure.
+
+Com o Bot Service, é possível desenvolver soluções como assistentes virtuais, chatbots de atendimento ao cliente, automações de FAQ e integração com sistemas corporativos para obter informações automatizadas.
